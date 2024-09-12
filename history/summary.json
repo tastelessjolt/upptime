@@ -22,19 +22,19 @@
     "url": "https://immich.goka.dev",
     "icon": "https://icons.duckduckgo.com/ip3/immich.goka.dev.ico",
     "slug": "immich",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1972,
-    "timeDay": 2729,
-    "timeWeek": 1972,
-    "timeMonth": 1972,
-    "timeYear": 1972,
+    "status": "up",
+    "uptime": "98.85%",
+    "uptimeDay": "96.77%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "98.85%",
+    "time": 2877,
+    "timeDay": 4891,
+    "timeWeek": 2877,
+    "timeMonth": 2877,
+    "timeYear": 2877,
     "dailyMinutesDown": {
-      "2024-09-12": 1
+      "2024-09-12": 46
     }
   },
   {
