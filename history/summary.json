@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 122,
-    "timeWeek": 188,
-    "timeMonth": 188,
-    "timeYear": 188,
+    "time": 198,
+    "timeDay": 247,
+    "timeWeek": 198,
+    "timeMonth": 198,
+    "timeYear": 198,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/immich.goka.dev.ico",
     "slug": "immich",
     "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
-    "time": 2231,
-    "timeDay": 2784,
-    "timeWeek": 2231,
-    "timeMonth": 2231,
-    "timeYear": 2231,
-    "dailyMinutesDown": {
-      "2024-09-11": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1972,
+    "timeDay": 2729,
+    "timeWeek": 1972,
+    "timeMonth": 1972,
+    "timeYear": 1972,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Jellyfin",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4576,
-    "timeDay": 5713,
-    "timeWeek": 4576,
-    "timeMonth": 4576,
-    "timeYear": 4576,
+    "time": 5519,
+    "timeDay": 10235,
+    "timeWeek": 5519,
+    "timeMonth": 5519,
+    "timeYear": 5519,
     "dailyMinutesDown": {}
   }
 ]
