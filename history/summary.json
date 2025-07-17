@@ -22,12 +22,12 @@
     "url": "https://immich.goka.dev",
     "icon": "https://icons.duckduckgo.com/ip3/immich.goka.dev.ico",
     "slug": "immich",
-    "status": "up",
-    "uptime": "98.41%",
-    "uptimeDay": "86.13%",
+    "status": "down",
+    "uptime": "98.42%",
+    "uptimeDay": "86.47%",
     "uptimeWeek": "96.23%",
     "uptimeMonth": "96.76%",
-    "uptimeYear": "98.41%",
+    "uptimeYear": "98.42%",
     "time": 1806,
     "timeDay": 603,
     "timeWeek": 596,
@@ -91,8 +91,7 @@
       "2024-10-24": 49,
       "2024-10-15": 280,
       "2024-10-12": 37,
-      "2024-10-06": 42,
-      "2024-10-02": 17
+      "2024-10-06": 42
     }
   },
   {
@@ -100,9 +99,9 @@
     "url": "https://jellyfin.goka.dev",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.goka.dev.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "95.23%",
-    "uptimeDay": "86.13%",
+    "uptimeDay": "86.47%",
     "uptimeWeek": "96.23%",
     "uptimeMonth": "96.76%",
     "uptimeYear": "95.23%",
