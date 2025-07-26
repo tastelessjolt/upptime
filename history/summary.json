@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
-    "timeDay": 105,
-    "timeWeek": 210,
-    "timeMonth": 190,
+    "timeDay": 249,
+    "timeWeek": 199,
+    "timeMonth": 191,
     "timeYear": 184,
     "dailyMinutesDown": {}
   },
@@ -22,17 +22,17 @@
     "url": "https://immich.goka.dev",
     "icon": "https://icons.duckduckgo.com/ip3/immich.goka.dev.ico",
     "slug": "immich",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "72.47%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "72.46%",
     "uptimeWeek": "78.53%",
-    "uptimeMonth": "91.92%",
-    "uptimeYear": "99.23%",
-    "time": 1593,
-    "timeDay": 598,
+    "uptimeMonth": "91.97%",
+    "uptimeYear": "99.24%",
+    "time": 1592,
+    "timeDay": 587,
     "timeWeek": 601,
     "timeMonth": 598,
-    "timeYear": 1593,
+    "timeYear": 1592,
     "dailyMinutesDown": {
       "2025-07-26": 391,
       "2025-07-25": 275,
@@ -51,8 +51,7 @@
       "2025-07-07": 31,
       "2025-07-05": 23,
       "2025-07-03": 16,
-      "2025-07-02": 70,
-      "2025-06-30": 20
+      "2025-07-02": 70
     }
   },
   {
@@ -60,17 +59,17 @@
     "url": "https://jellyfin.goka.dev",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.goka.dev.ico",
     "slug": "jellyfin",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "72.47%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "72.46%",
     "uptimeWeek": "78.52%",
-    "uptimeMonth": "91.92%",
-    "uptimeYear": "99.23%",
-    "time": 1472,
-    "timeDay": 747,
-    "timeWeek": 819,
+    "uptimeMonth": "91.96%",
+    "uptimeYear": "99.24%",
+    "time": 1470,
+    "timeDay": 740,
+    "timeWeek": 821,
     "timeMonth": 785,
-    "timeYear": 1472,
+    "timeYear": 1470,
     "dailyMinutesDown": {
       "2025-07-26": 391,
       "2025-07-25": 275,
@@ -89,8 +88,7 @@
       "2025-07-07": 31,
       "2025-07-05": 23,
       "2025-07-03": 16,
-      "2025-07-02": 70,
-      "2025-06-30": 20
+      "2025-07-02": 70
     }
   }
 ]
