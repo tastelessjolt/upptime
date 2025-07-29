@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
-    "timeDay": 176,
-    "timeWeek": 207,
-    "timeMonth": 195,
+    "timeDay": 132,
+    "timeWeek": 191,
+    "timeMonth": 191,
     "timeYear": 184,
     "dailyMinutesDown": {}
   },
@@ -22,17 +22,17 @@
     "url": "https://immich.goka.dev",
     "icon": "https://icons.duckduckgo.com/ip3/immich.goka.dev.ico",
     "slug": "immich",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "86.44%",
-    "uptimeWeek": "82.33%",
-    "uptimeMonth": "91.71%",
+    "uptimeDay": "88.58%",
+    "uptimeWeek": "82.76%",
+    "uptimeMonth": "91.74%",
     "uptimeYear": "99.22%",
-    "time": 1563,
-    "timeDay": 606,
-    "timeWeek": 598,
+    "time": 1561,
+    "timeDay": 605,
+    "timeWeek": 600,
     "timeMonth": 599,
-    "timeYear": 1563,
+    "timeYear": 1561,
     "dailyMinutesDown": {
       "2025-07-29": 164,
       "2025-07-28": 174,
@@ -47,8 +47,7 @@
       "2025-07-19": 385,
       "2025-07-18": 262,
       "2025-07-17": 237,
-      "2025-07-16": 159,
-      "2025-07-15": 15
+      "2025-07-16": 159
     }
   },
   {
@@ -56,17 +55,17 @@
     "url": "https://jellyfin.goka.dev",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.goka.dev.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "86.44%",
-    "uptimeWeek": "82.33%",
-    "uptimeMonth": "91.71%",
+    "uptimeDay": "88.58%",
+    "uptimeWeek": "82.76%",
+    "uptimeMonth": "91.74%",
     "uptimeYear": "99.22%",
-    "time": 1447,
-    "timeDay": 763,
-    "timeWeek": 825,
+    "time": 1446,
+    "timeDay": 735,
+    "timeWeek": 827,
     "timeMonth": 784,
-    "timeYear": 1447,
+    "timeYear": 1446,
     "dailyMinutesDown": {
       "2025-07-29": 164,
       "2025-07-28": 174,
@@ -81,8 +80,7 @@
       "2025-07-19": 385,
       "2025-07-18": 262,
       "2025-07-17": 237,
-      "2025-07-16": 159,
-      "2025-07-15": 15
+      "2025-07-16": 159
     }
   }
 ]
