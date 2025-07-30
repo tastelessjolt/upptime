@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
-    "timeDay": 132,
-    "timeWeek": 191,
-    "timeMonth": 191,
+    "timeDay": 112,
+    "timeWeek": 161,
+    "timeMonth": 186,
     "timeYear": 184,
     "dailyMinutesDown": {}
   },
@@ -22,17 +22,17 @@
     "url": "https://immich.goka.dev",
     "icon": "https://icons.duckduckgo.com/ip3/immich.goka.dev.ico",
     "slug": "immich",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "76.26%",
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "76.25%",
     "uptimeWeek": "81.77%",
-    "uptimeMonth": "91.40%",
-    "uptimeYear": "99.19%",
-    "time": 1545,
-    "timeDay": 563,
-    "timeWeek": 587,
-    "timeMonth": 597,
-    "timeYear": 1545,
+    "uptimeMonth": "91.49%",
+    "uptimeYear": "99.20%",
+    "time": 1544,
+    "timeDay": 564,
+    "timeWeek": 590,
+    "timeMonth": 598,
+    "timeYear": 1544,
     "dailyMinutesDown": {
       "2025-07-30": 334,
       "2025-07-29": 170,
@@ -47,7 +47,7 @@
       "2025-07-20": 367,
       "2025-07-19": 385,
       "2025-07-18": 262,
-      "2025-07-17": 202
+      "2025-07-17": 166
     }
   },
   {
@@ -55,17 +55,17 @@
     "url": "https://jellyfin.goka.dev",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.goka.dev.ico",
     "slug": "jellyfin",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "73.17%",
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "73.16%",
     "uptimeWeek": "81.32%",
-    "uptimeMonth": "91.38%",
-    "uptimeYear": "99.19%",
-    "time": 1433,
-    "timeDay": 712,
-    "timeWeek": 807,
-    "timeMonth": 780,
-    "timeYear": 1433,
+    "uptimeMonth": "91.46%",
+    "uptimeYear": "99.20%",
+    "time": 1432,
+    "timeDay": 713,
+    "timeWeek": 809,
+    "timeMonth": 781,
+    "timeYear": 1432,
     "dailyMinutesDown": {
       "2025-07-30": 378,
       "2025-07-29": 170,
@@ -80,7 +80,7 @@
       "2025-07-20": 367,
       "2025-07-19": 385,
       "2025-07-18": 262,
-      "2025-07-17": 166
+      "2025-07-17": 132
     }
   }
 ]
