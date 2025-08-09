@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
-    "timeDay": 203,
-    "timeWeek": 181,
-    "timeMonth": 191,
+    "timeDay": 107,
+    "timeWeek": 158,
+    "timeMonth": 187,
     "timeYear": 184,
     "dailyMinutesDown": {}
   },
@@ -24,17 +24,17 @@
     "slug": "immich",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "90.13%",
-    "uptimeWeek": "76.07%",
-    "uptimeMonth": "89.80%",
+    "uptimeDay": "92.65%",
+    "uptimeWeek": "76.74%",
+    "uptimeMonth": "89.77%",
     "uptimeYear": "99.07%",
-    "time": 1452,
-    "timeDay": 957,
-    "timeWeek": 662,
+    "time": 1451,
+    "timeDay": 624,
+    "timeWeek": 665,
     "timeMonth": 617,
-    "timeYear": 1452,
+    "timeYear": 1451,
     "dailyMinutesDown": {
-      "2025-08-08": 119,
+      "2025-08-08": 107,
       "2025-08-07": 326,
       "2025-08-06": 220,
       "2025-08-05": 307,
@@ -50,7 +50,7 @@
       "2025-07-26": 391,
       "2025-07-25": 275,
       "2025-07-24": 396,
-      "2025-07-23": 26
+      "2025-07-23": 52
     }
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.goka.dev.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "99.10%",
-    "uptimeDay": "90.12%",
-    "uptimeWeek": "76.07%",
-    "uptimeMonth": "90.09%",
-    "uptimeYear": "99.10%",
-    "time": 1358,
-    "timeDay": 794,
-    "timeWeek": 764,
-    "timeMonth": 781,
-    "timeYear": 1358,
+    "uptime": "99.06%",
+    "uptimeDay": "92.65%",
+    "uptimeWeek": "76.73%",
+    "uptimeMonth": "89.72%",
+    "uptimeYear": "99.06%",
+    "time": 1357,
+    "timeDay": 798,
+    "timeWeek": 767,
+    "timeMonth": 782,
+    "timeYear": 1357,
     "dailyMinutesDown": {
-      "2025-08-08": 119,
+      "2025-08-08": 107,
       "2025-08-07": 326,
       "2025-08-06": 220,
       "2025-08-05": 307,
@@ -85,7 +85,8 @@
       "2025-07-27": 72,
       "2025-07-26": 391,
       "2025-07-25": 275,
-      "2025-07-24": 251
+      "2025-07-24": 396,
+      "2025-07-23": 26
     }
   }
 ]
