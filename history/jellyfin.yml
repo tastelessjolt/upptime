@@ -1,7 +1,7 @@
 url: https://jellyfin.goka.dev
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-09T21:59:27.162Z
+status: up
+code: 200
+responseTime: 881
+lastUpdated: 2025-08-09T22:45:31.517Z
 startTime: 2024-09-09T07:31:43.671Z
 generator: Upptime <https://github.com/upptime/upptime>
