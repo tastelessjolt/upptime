@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/immich.goka.dev.ico",
     "slug": "immich",
     "status": "down",
-    "uptime": "99.27%",
-    "uptimeDay": "90.08%",
+    "uptime": "99.28%",
+    "uptimeDay": "90.75%",
     "uptimeWeek": "84.18%",
-    "uptimeMonth": "91.75%",
-    "uptimeYear": "99.27%",
+    "uptimeMonth": "91.80%",
+    "uptimeYear": "99.28%",
     "time": 1332,
-    "timeDay": 620,
+    "timeDay": 621,
     "timeWeek": 592,
-    "timeMonth": 612,
+    "timeMonth": 611,
     "timeYear": 1332,
     "dailyMinutesDown": {
       "2025-08-21": 53,
@@ -50,8 +50,7 @@
       "2025-08-08": 107,
       "2025-08-07": 326,
       "2025-08-06": 220,
-      "2025-08-05": 307,
-      "2025-08-04": 21
+      "2025-08-05": 307
     }
   },
   {
@@ -59,12 +58,12 @@
     "url": "https://jellyfin.goka.dev",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.goka.dev.ico",
     "slug": "jellyfin",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "90.08%",
+    "status": "down",
+    "uptime": "99.28%",
+    "uptimeDay": "90.75%",
     "uptimeWeek": "84.18%",
-    "uptimeMonth": "91.75%",
-    "uptimeYear": "99.27%",
+    "uptimeMonth": "91.79%",
+    "uptimeYear": "99.28%",
     "time": 1269,
     "timeDay": 779,
     "timeWeek": 764,
@@ -87,8 +86,7 @@
       "2025-08-08": 107,
       "2025-08-07": 326,
       "2025-08-06": 220,
-      "2025-08-05": 307,
-      "2025-08-04": 21
+      "2025-08-05": 307
     }
   }
 ]
