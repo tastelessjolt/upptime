@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 187,
     "timeDay": 613,
-    "timeWeek": 332,
-    "timeMonth": 224,
+    "timeWeek": 358,
+    "timeMonth": 226,
     "timeYear": 187,
     "dailyMinutesDown": {}
   },
@@ -24,17 +24,17 @@
     "slug": "immich",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "96.24%",
-    "uptimeWeek": "85.54%",
-    "uptimeMonth": "91.79%",
+    "uptimeDay": "96.30%",
+    "uptimeWeek": "86.60%",
+    "uptimeMonth": "91.75%",
     "uptimeYear": "99.28%",
     "time": 1329,
-    "timeDay": 615,
-    "timeWeek": 596,
+    "timeDay": 602,
+    "timeWeek": 595,
     "timeMonth": 612,
     "timeYear": 1329,
     "dailyMinutesDown": {
-      "2025-08-21": 54,
+      "2025-08-21": 53,
       "2025-08-20": 114,
       "2025-08-19": 256,
       "2025-08-18": 245,
@@ -50,7 +50,8 @@
       "2025-08-08": 107,
       "2025-08-07": 326,
       "2025-08-06": 220,
-      "2025-08-05": 307
+      "2025-08-05": 307,
+      "2025-08-04": 21
     }
   },
   {
@@ -60,17 +61,17 @@
     "slug": "jellyfin",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "96.24%",
-    "uptimeWeek": "85.53%",
-    "uptimeMonth": "91.79%",
+    "uptimeDay": "96.30%",
+    "uptimeWeek": "86.60%",
+    "uptimeMonth": "91.75%",
     "uptimeYear": "99.28%",
     "time": 1267,
-    "timeDay": 767,
-    "timeWeek": 767,
+    "timeDay": 775,
+    "timeWeek": 766,
     "timeMonth": 781,
     "timeYear": 1267,
     "dailyMinutesDown": {
-      "2025-08-21": 54,
+      "2025-08-21": 53,
       "2025-08-20": 114,
       "2025-08-19": 256,
       "2025-08-18": 245,
@@ -86,7 +87,8 @@
       "2025-08-08": 107,
       "2025-08-07": 326,
       "2025-08-06": 220,
-      "2025-08-05": 307
+      "2025-08-05": 307,
+      "2025-08-04": 21
     }
   }
 ]
